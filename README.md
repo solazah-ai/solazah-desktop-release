@@ -26,7 +26,7 @@ Solazah 是一个住在你桌面上的智能助手(AI agent)。
 
 前往官网下载,安装即用:
 
-### 👉 [solazah.seayona.com](https://solazah.seayona.com)
+### 👉 [立即下载](https://solazah.seayona.com)
 
 - **Windows**:现已支持,官网直接下载安装。
 - **macOS**:即将推出。
